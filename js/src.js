@@ -118,6 +118,7 @@ function añadirTarea() {
     const textoTarea = document.createElement("h4");
     textoTarea.classList.add("textoTarea");
     textoTarea.innerHTML = tarea.texto;
+    /*   textoTarea.contentEditable = "true"; */
 
     // <h5 class="fecha"></h5>
     const fecha = document.createElement("h5");
