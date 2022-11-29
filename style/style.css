@@ -309,7 +309,7 @@ input:checked + #NORMAL {
 
 .tarea > h5 {
   align-self: center;
-  min-width: 5.5rem;
+  min-width: 6rem;
 }
 
 .tarea > input.checkbox,
